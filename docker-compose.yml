@@ -3,6 +3,6 @@ services:
   web:
     image: todo-app 
     ports:
-      - "8000:8080"
+      - "8001:8001"
     
 
